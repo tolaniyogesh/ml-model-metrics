@@ -305,6 +305,7 @@ mean radius,mean texture,mean perimeter,...,worst fractal dimension,target
 6. Click "Deploy"
 
 Your app will be live at: `https://[your-app-name].streamlit.app`
+for this project the url is: https://ml-model-metrics-6aobkdhdiecqneyyoi2mpm.streamlit.app/
 
 ## Technologies Used
 
