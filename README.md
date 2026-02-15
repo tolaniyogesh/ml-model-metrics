@@ -207,7 +207,7 @@ ML-assignment-final/
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/tolaniyogesh/ml-model-metrics
 cd ML-assignment-final
 ```
 
@@ -334,10 +334,6 @@ The high performance across all models indicates that the dataset features are h
 ## Author
 
 **Yogesh Tolani**
-
-## License
-
-This project is created for educational purposes as part of a Machine Learning course assignment.
 
 ## Acknowledgments
 
